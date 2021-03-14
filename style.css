@@ -48,4 +48,20 @@ section {
     margin-bottom: 10px;
 }
 
+.content p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin-bottom: 20px;
+    line-height: 24px;
+}
 
+.content button {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin: 15px;
+    border: 2px solide #fff;
+    padding: 10px 20px;
+    background: none;
+    color: #fff;
+    font-weight: 500;
+}
