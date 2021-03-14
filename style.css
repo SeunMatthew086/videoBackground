@@ -1,0 +1,10 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+#videobg {
+    min-height: 100%;
+    min-width: 100%;  
+}
