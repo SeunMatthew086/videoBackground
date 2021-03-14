@@ -59,9 +59,21 @@ section {
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     margin: 15px;
-    border: 2px solide #fff;
+    border: 2px solid #fff;
     padding: 10px 20px;
-    background: none;
+    background: #4a47a3;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 24px;
+}
+
+.content button:hover {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin: 15px;
+    border: 2px solid #fff;
+    padding: 10px 20px;
+    background:#689ee4 ;
     color: #fff;
     font-weight: 500;
 }
